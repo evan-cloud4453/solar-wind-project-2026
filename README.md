@@ -1,6 +1,6 @@
 # 태양 관측 영상으로 지구 도달 태양풍 속도 예측하기
 
-**제3회 한국천문연구원(KASI) × KAIST 천문우주 AI 경진대회 — 팀 시온(Sion)**
+**제3회 한국천문연구원(KASI) × KAIST 천문우주 AI 경진대회 — 팀 시온**
 
 ![round](https://img.shields.io/badge/예선-종합_5위-2a9d8f) ![round](https://img.shields.io/badge/본선-public_58.8028-4c6ef5) ![subs](https://img.shields.io/badge/제출-7회-9aa0a6) ![task](https://img.shields.io/badge/task-multi--horizon_regression-d1495b)
 
